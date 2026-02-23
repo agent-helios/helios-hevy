@@ -1,6 +1,6 @@
 # Helios Hevy Skill
 
-Access Moritz' training data from Hevy via API.
+OpenClaw agent skill to access Hevy workout data via API.
 
 ## Usage
 
